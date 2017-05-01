@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ダビング記録アプリ（仮）</string>
+    <string name="title_activity_present">present</string>
+    <string-array name="deck">
+    <item>XDCAM1</item>
+    <item>XDCAM2</item>
+    <item>XDCAM3</item>
+    <item>XDCAM4</item>
+        <item>HDCAM1</item>
+        <item>HDCAM2</item>
+        <item>HDCAM3</item>
+        <item>HDCAM4</item>
+        <item>HDCAM5</item>
+        <item>HDCAM6</item>
+        <item>HDCAM7</item>
+        <item>HDCAM8</item>
+        <item>HDCAM9</item>
+        <item>HDCAM10</item>
+        <item>HDCAM11</item>
+        <item>HDCAM12</item>
+        <item>HDCAM13</item>
+        <item>HDCAM14</item>
+        <item>HDCAM15</item>
+        <item>HDCAM16</item>
+    </string-array>
+</resources>
